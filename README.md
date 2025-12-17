@@ -1,27 +1,62 @@
-# Smart Dustbin 🚮 
+# Smart Dustbin System
 
-An Arduino-based smart dustbin that automatically opens its lid when a hand is detected using an ultrasonic sensor.
+## 📌 Overview
+The Smart Dustbin System is an Arduino-based solution designed to improve waste management and hygiene. It automatically opens the dustbin lid when a user approaches and monitors the garbage level to prevent overflow, making it suitable for smart city applications.
 
-## Features
-- Touchless operation
-- Automatic lid opening using servo motor
-- Buzzer feedback
-- Green/Red LED status indication
-- Hygienic and user-friendly design
+---
 
-## Components Used
-- Arduino UNO
-- HC-SR04 Ultrasonic Sensor
-- Servo Motor
-- Buzzer
-- Red & Green LEDs
-- Resistors
-- Breadboard & Jumper wires
+## 🎯 Objectives
+- Promote contactless and hygienic waste disposal
+- Automatically open and close the dustbin lid
+- Monitor garbage fill level
+- Prevent overflow and improve waste management efficiency
 
-## Working Principle
-The ultrasonic sensor measures the distance to an object.  
-When a hand is detected within 15 cm, the servo motor opens the dustbin lid, activates the green LED, and triggers a buzzer.  
-If no object is detected, the lid remains closed and the red LED stays ON.
+---
 
-## Author
-Aachu Anna Sony
+## ⚙️ System Working
+- An ultrasonic sensor detects the presence of a user near the dustbin.
+- When an object is detected within a predefined distance, a servo motor opens the lid.
+- Another sensor can be used to monitor the garbage level inside the bin.
+- The system operates automatically without manual intervention.
+
+---
+
+## 🧰 Components Used
+- Arduino UNO  
+- Ultrasonic Sensor (HC-SR04)  
+- Servo Motor  
+- Dustbin model  
+- Breadboard  
+- Jumper Wires  
+
+---
+
+## 💡 Key Features
+- Contactless operation
+- Improved hygiene
+- Automatic lid control
+- Simple and cost-effective design
+- Suitable for public and smart city use
+
+---
+
+## 🧪 Simulation
+The project logic is tested using **Tinkercad Circuits** to verify automatic lid operation and sensor response.
+
+---
+
+## 🎥 Simulation Demo Video
+(Add your YouTube or Google Drive link here)
+
+---
+
+## 🚀 Future Enhancements
+- IoT-based fill level monitoring
+- Mobile app notifications for waste collection
+- Solar-powered operation
+- AI-based waste segregation
+
+---
+
+## 👩‍💻 Author
+- Helna Mary Sherin
