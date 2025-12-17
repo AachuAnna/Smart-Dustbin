@@ -56,7 +56,3 @@ The project logic is tested using **Tinkercad Circuits** to verify automatic lid
 - Solar-powered operation
 - AI-based waste segregation
 
----
-
-## 👩‍💻 Author
-- Helna Mary Sherin
