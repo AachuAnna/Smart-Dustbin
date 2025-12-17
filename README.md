@@ -46,7 +46,7 @@ The project logic is tested using **Tinkercad Circuits** to verify automatic lid
 ---
 
 ## 🎥 Simulation Demo Video
-(Add your YouTube or Google Drive link here)
+https://drive.google.com/file/d/12zPg0uvXYg91AphKKpRt9qSzIOJ_K28d/view?usp=drive_link
 
 ---
 
