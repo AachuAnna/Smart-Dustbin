@@ -1,4 +1,4 @@
-# Smart Dustbin 🚮
+# Smart Dustbin 🚮 
 
 An Arduino-based smart dustbin that automatically opens its lid when a hand is detected using an ultrasonic sensor.
 
