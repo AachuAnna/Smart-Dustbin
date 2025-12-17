@@ -1,6 +1,6 @@
 # Smart Dustbin System
 
-## 📌 Overview
+## 📌 Overview 
 The Smart Dustbin System is an Arduino-based solution designed to improve waste management and hygiene. It automatically opens the dustbin lid when a user approaches and monitors the garbage level to prevent overflow, making it suitable for smart city applications.
 
 ---
